@@ -25,6 +25,8 @@ Cloud sessions start empty. Before any video work run: `bash video/setup.sh`
 - Always show a preview before the final render. Make each design different from the previous video.
 - Don't cover faces or the product. Background music must never drown the voice.
 - Commit and push finished videos + scripts to `master`.
+- Default speaking style for every UGC script / AI video prompt: natural Gen-Z UGC delivery,
+  like recommending to a close friend (full text in `prompts/ugc_scripts.md`). Only use brand's own claims.
 
 ## Proven workflow (see scripts in `video/`)
 1. Probe: `ffprobe`, frame grid, `scdet` for scene cuts, per-0.5s RMS to find speech/pauses.
