@@ -58,6 +58,45 @@ Use the same prompt format as above, swapping character setting, dialogue and ac
 
 ---
 
+## MASTER PROMPT — Flow / Gemini (Veo), AI cakap natural
+Fill the [brackets]; one clip = max ~8s, so keep dialogue to ~15–20 words per clip.
+Use the SAME character + setting text in every clip so the person stays consistent.
+
+```
+[CHARACTER] A Malay woman in her mid-20s, warm tan skin, soft natural makeup, light beige bawal
+hijab, cream oversized knit top. Real skin texture, slight imperfections, natural asymmetry.
+
+[SETTING] Bright bedroom, afternoon daylight from a window on her left, slightly messy shelf
+behind her, shallow depth of field.
+
+[CAMERA] Vertical 9:16, handheld front-facing phone selfie at arm's length, eye level, tiny
+natural hand-shake, occasional micro re-framing. Looks like an unedited TikTok, not an ad.
+
+[ACTION] She [lifts the product into frame / taps the cap / leans closer], eyebrows rising on
+the exciting word, small head tilts, hand gestures timed with her words, quick glance at the
+product then back to the lens, a short laugh before the last line.
+
+[DIALOGUE] She says in casual Malaysian Malay mixed with English, in a Malaysian accent:
+"[dialog, 15–20 perkataan]"
+
+[VOICE & DELIVERY] Natural Gen-Z UGC delivery. Medium-fast conversational pace, energetic but
+not shouting. Frequent small pitch changes, slightly rising intonation on exciting words, short
+natural micro-pauses and a soft breath between phrases, a tiny "eh" or "haa" filler is fine.
+Like voice-noting a close friend, not reading an advertisement. Playful, confident, subtle
+surprise. Lip-sync matches every syllable.
+
+[AUDIO] Only her voice and quiet room tone. No background music, no sound effects.
+
+[AVOID] No subtitles, no on-screen text, no logos added, no robotic rhythm, no presenter tone,
+no over-smooth plastic skin, no extra fingers, no direct sales-ad voice.
+```
+
+**Kenapa ia nampak natural:** watak & kamera yang sama setiap klip (konsisten), kamera "handheld"
+(bukan studio), kecacatan kulit sebenar, filler kecil ("eh", "haa") + nafas, dialog pendek dalam
+tanda petik, dan larang subtitle/muzik (Veo selalu tambah sendiri kalau tak dilarang).
+
+---
+
 ## Rakam sendiri? Tips ikut gaya ni
 - Pegang phone paras mata, cahaya dari tingkap depan muka.
 - Cakap macam voice note kat kawan baik — jangan hafal ayat bulat-bulat.
